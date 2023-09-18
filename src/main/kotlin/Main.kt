@@ -1,5 +1,5 @@
 /**
- * our task is to implement the following function inside the University class:
+ * the task is to implement the following function inside the University class:
  *
  * fun getPaidCoursesWithTheNumbersOfSubscribedStudents(coursesCount: Int): Map<Course, Int> {}
  *
